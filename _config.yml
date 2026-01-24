@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Liang Wang"
 title_separator          : "-"
 name                     : &name "Liang Wang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Liang Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://myoooofall.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "https://github.com/myoooofall"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "11.png"
+  avatar           : "22.png"
   name             : "Liang Wang"
   pronouns         : # example: "she/her"  
   bio              : "My apologies for getting distracted "
