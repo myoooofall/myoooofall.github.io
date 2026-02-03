@@ -8,23 +8,37 @@ redirect_from:
 ---
 
 ### Liang Wang（王亮）
-  Welcome! I am currently a first-year Ph.D. student at **Zhejiang University**, where I am fortunately supervised by <a href="https://person.zju.edu.cn/0011353" style="text-decoration: none;">Prof. Qiuguo Zhu</a> and <a href="https://person.zju.edu.cn/0094198" style="text-decoration: none;">Prof. Jun Wu</a>. 
-
-Meanwhile, I am also a research intern at the **Institute of Artificial Intelligence (TeleAI), China Telecom**, working under the supervision of <a href="https://iopen.nwpu.edu.cn/info/1251/5226.htm" style="text-decoration: none;">Prof. Zhe Sun</a>.
+  Welcome! I am currently a first-year Ph.D. student at **Zhejiang University**, where I am fortunately supervised by <a href="https://person.zju.edu.cn/0011353" style="text-decoration: none;">Prof. Qiuguo Zhu</a> and <a href="https://person.zju.edu.cn/0094198" style="text-decoration: none;">Prof. Jun Wu</a>. Meanwhile, I am also a research intern at the **Institute of Artificial Intelligence (TeleAI), China Telecom**, working under the supervision of <a href="https://iopen.nwpu.edu.cn/info/1251/5226.htm" style="text-decoration: none;">Prof. Zhe Sun</a>.
    
    My research interests include reinforcement learning, legged robot locomotion and navigation, as well as whole-body control.  
+### Education
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 12px; border: 1px solid #e9ecef; margin-top: -3px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+  
+  <div style="margin-bottom: 18px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <span style="font-weight: 500; font-size: 1.05em; color: #666;">Ph.D. in Electronic Information, Zhejiang University</span>
+      <span style="font-size: 0.85em; color: #777; font-style: italic; letter-spacing: 0.5px;">Hangzhou, China</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 5px;">
+      <span style="font-size: 0.92em; color: #888; font-weight: 400;">Jointly cultivated by the Institute of Artificial Intelligence (TeleAI), China Telecom</span>
+      <span style="font-size: 0.82em; color: #999; font-family: monospace;">2025 - Present</span>
+    </div>
+  </div>
 
-   
-### Education Experience
+  <div style="height: 1px; background: linear-gradient(to right, #dee2e6, transparent); margin-bottom: 18px;"></div>
 
-*   **Ph.D. in Electronic Information** (2025 - Present)
-    *   Zhejiang University, Hangzhou, China.
-    *   Jointly cultivated by the Institute of Artificial Intelligence (TeleAI), China Telecom in Shanghai.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <span style="font-weight: 500; font-size: 1.05em; color: #666;">B.Eng. in Robotic Engineering, Zhejiang University</span>
+      <span style="font-size: 0.85em; color: #777; font-style: italic; letter-spacing: 0.5px;">Hangzhou, China</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 5px;">
+      <span style="font-size: 0.92em; color: #888; font-weight: 400;">College of Control Science and Engineering & Chu Kochen Honors College (CKC)</span>
+      <span style="font-size: 0.82em; color: #999; font-family: monospace;">2021 - 2025</span>
+    </div>
+  </div>
 
-*   **Bachelor in Robotic Engineering** (2021 - 2025)
-    *   College of Control Science and Engineering, Zhejiang University, Hangzhou, China.
-    *   Chu Kochen Honors College (CKC), Zhejiang University.
-
+</div>
 ### Publications
 
 <table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px;">
