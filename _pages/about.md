@@ -56,12 +56,10 @@ redirect_from:
       <div style="font-size:0.9em;">
         [<a href="https://arxiv.org/abs/2606.10832" style="text-decoration: none;">arXiv</a>]
         [<a href="https://guide-navigation.github.io/" style="text-decoration: none;">project</a>]
-        [<a href="/files/guide_arxiv.pdf" style="text-decoration: none;">paper</a>]
-        [<a href="/files/guide.bib" style="text-decoration: none;">bibtex</a>]
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align:middle;">
-      <video controls playsinline preload="metadata"
+      <video autoplay loop muted playsinline preload="metadata"
              style="width:100%; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
         <source src="/files/guide_overview.mp4" type="video/mp4">
       </video>
