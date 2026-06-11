@@ -45,6 +45,34 @@ redirect_from:
   <tr style="border:none;">
     <td style="width:60%; border:none; vertical-align:top; padding-right: 20px;">
       <div style="margin-bottom: 8px;">
+        <strong style="font-size:1.15em; line-height:1.3; display:block;">GUIDE: Goal-Initialized Directional Understanding for End-to-End Visual Navigation</strong>
+      </div>
+      <div style="font-size:0.95em; color:#555; margin-bottom: 8px;">
+        <span style="color: #2e7d32; font-weight: 500;">Liang Wang</span>, Jin Jin, KanZhong Yao, YiBin Wu, Fangqiang Ding, Jin Wang, Jun Wu, Zhe Sun, Qiuguo Zhu.
+      </div>
+      <div style="font-size:0.9em; margin-bottom: 10px;">
+        <i>arXiv preprint arXiv:2606.10832, 2026.</i>
+      </div>
+      <div style="font-size:0.9em;">
+        [<a href="https://arxiv.org/abs/2606.10832" style="text-decoration: none;">arXiv</a>]
+        [<a href="https://guide-navigation.github.io/" style="text-decoration: none;">project</a>]
+        [<a href="/files/guide_arxiv.pdf" style="text-decoration: none;">paper</a>]
+        [<a href="/files/guide.bib" style="text-decoration: none;">bibtex</a>]
+      </div>
+    </td>
+    <td style="width:40%; border:none; vertical-align:middle;">
+      <video controls playsinline preload="metadata"
+             style="width:100%; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <source src="/files/guide_overview.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+
+  <tr style="height:40px; border:none;"><td colspan="2" style="border:none;"></td></tr>
+
+  <tr style="border:none;">
+    <td style="width:60%; border:none; vertical-align:top; padding-right: 20px;">
+      <div style="margin-bottom: 8px;">
         <strong style="font-size:1.15em; line-height:1.3; display:block;">PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour</strong>
       </div>
       <div style="font-size:0.95em; color:#555; margin-bottom: 8px;">
@@ -55,7 +83,7 @@ redirect_from:
       </div>
       <div style="font-size:0.9em;">
         [<a href="https://arxiv.org/abs/2601.15995" style="text-decoration: none;">arXiv</a>] 
-        [<a href="#" style="text-decoration: none;">project</a>] 
+        [<a href="https://myoooofall.github.io/PUMA-parkour/" style="text-decoration: none;">project</a>] 
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align:middle;">
