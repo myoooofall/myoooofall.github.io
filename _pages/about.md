@@ -77,11 +77,12 @@ redirect_from:
         <span style="color: #2e7d32; font-weight: 500;">Liang Wang</span>, Kanzhong Yao, Yang Liu, Weikai Qin, Jun Wu, Zhe Sun, Qiuguo Zhu.
       </div>
       <div style="font-size:0.9em; margin-bottom: 10px;">
-        <i>arXiv preprint arXiv:2601.15995, 2026.</i>
+        <i>IEEE Robotics and Automation Letters (RA-L), 2026.</i>
       </div>
       <div style="font-size:0.9em;">
         [<a href="https://arxiv.org/abs/2601.15995" style="text-decoration: none;">arXiv</a>] 
         [<a href="https://myoooofall.github.io/PUMA-parkour/" style="text-decoration: none;">project</a>] 
+        [<a href="https://ieeexplore.ieee.org/document/11600994" style="text-decoration: none;">paper</a>]
       </div>
     </td>
     <td style="width:40%; border:none; vertical-align:middle;">
